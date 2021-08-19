@@ -1,0 +1,3 @@
+# Educational-Tool-selling-E-commerce-website
+
+Education is a collaborative effort by Assadujjaman Nayeem, which aims to provide online based education system to Bangladesh. We, the members of Group-5 are university students and learners of web design and development. We aspire to make technology a critical and powerful tool for providing education to a variety of age groups and academic backgrounds. Our Objective is to build a website for student, who want to find their academic books and equipment for different scientific experiment. In that website There will be different books and scientific equipment categorized by several section. It will be very easier for users and they also can buy their desirable book and scientific equipment.
